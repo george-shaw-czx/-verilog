@@ -1,9 +1,0 @@
-module buzzer(
-					input clk,
-					input color,
-					
-					
-					);
-					
-					
-endmodule 
