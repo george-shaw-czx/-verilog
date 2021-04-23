@@ -1,2 +1,0 @@
-`timescale 10ns/10ns
-module divider_tb;
