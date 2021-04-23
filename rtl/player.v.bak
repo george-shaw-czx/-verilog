@@ -1,0 +1,9 @@
+module player(
+					input clk
+					output unable
+					output key
+					);
+					
+					
+					
+endmodule 
